@@ -88,10 +88,10 @@ bottom5 = df.groupby('pizza_name')['total_price'].sum().sort_values().head(5)
 ## 🖼️ Dashboard Preview
 
 **Page 1 — Sales Overview**
-![Overview](Pizza_Dashboard_Page1_Overview.png?raw=true)
+![Overview](Pizza_Dashboard_Overview.png?raw=true)
 
 **Page 2 — Best & Worst Sellers**
-![Best Worst](Pizza_Dashboard_Page2_BestWorst.png?raw=true)
+![Best Worst](Pizza_Dashboard_Best_worst_Pizza.png?raw=true)
 
 ---
 📓 Jupyter notebook included &nbsp;|&nbsp; 📦 48,620 records &nbsp;|&nbsp; 📈 12 visualisations &nbsp;|&nbsp; 🖼️ 2 dashboard pages
