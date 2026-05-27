@@ -88,7 +88,7 @@ bottom5 = df.groupby('pizza_name')['total_price'].sum().sort_values().head(5)
 ## 🖼️ Dashboard Preview
 
 **Page 1 — Sales Overview**
-![Overview](Pizza_Dashboard_Overview.png?raw=true)
+![Overview](Pizza_Dashboard_Page1_Overview.png?raw=true)
 
 **Page 2 — Best & Worst Sellers**
 ![Best Worst](https://github.com/abhisheknirmal02-lab/Pizza-Sales-Analysis-python-project/blob/main/Pizza_Dashboard_Best_worst%20Pizza.png)
